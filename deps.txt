@@ -1,0 +1,4 @@
+
+cpdetector_1.0.10.jar
+chardet-1.0.jar
+antlr-2.7.4.jar

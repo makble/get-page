@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/nc/cpdetector_1.0.10.jar"/>
+	<classpathentry kind="lib" path="/nc/jarlib/chardet-1.0.jar"/>
+	<classpathentry kind="lib" path="/nc/ext/antlr-2.7.4.jar"/>
+	<classpathentry kind="lib" path="/nc/jarlib/nekohtml.jar"/>
+	<classpathentry kind="lib" path="/nc/jarlib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="/nc/jarlib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="/nc/jarlib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/nc/jarlib/jStyleParser.jar"/>
+	<classpathentry kind="lib" path="/nc/jarlib/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/nc/jarlib/logback-core-0.9.9.jar"/>
+	<classpathentry kind="lib" path="/nc/jarlib/slf4j-nop-1.5.2.jar"/>
+	<classpathentry kind="lib" path="/nc/jarlib/antlr-2.7.4.jar"/>
+	<classpathentry kind="lib" path="/nc/jarlib/antlr-runtime-3.1.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
